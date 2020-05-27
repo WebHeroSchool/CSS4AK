@@ -1,0 +1,11 @@
+.section-wise-matters{
+  width: auto;
+  height: auto;
+  border: 5px solid salmon;
+  text-align: center;
+}
+
+.header__title{
+	font-size: 36px;
+    color: red;
+}
